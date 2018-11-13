@@ -1,5 +1,5 @@
 VERSION=latest
-NAME=tpm2-test
+NAME=sunet/docker-tpm2
 
 all: build
 
